@@ -1,0 +1,7 @@
+how to save maps histograms to a specific location
+how to delete "'" from column headers
+what is mislableeld points in Naive bayes prediction
+what does :' do?
+what does: \n do?
+
+syntax for lambda
